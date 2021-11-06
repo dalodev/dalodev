@@ -13,8 +13,10 @@
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
 [![SQLite](https://img.shields.io/badge/sqlite-003B57?&style=for-the-badge&logo=sqlite&labelColor=101010)]()
 </br>
+[![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&labelColor=101010)]()
 [![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?&style=for-the-badge&logo=visual-studio-code&labelColor=101010)]()
-[![VSCode](https://img.shields.io/badge/git-F05032?&style=for-the-badge&logo=git&labelColor=101010)]()
+[![git](https://img.shields.io/badge/git-F05032?&style=for-the-badge&logo=git&labelColor=101010)]()
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&labelColor=101010)
 
 ## Find me at:
 

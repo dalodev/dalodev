@@ -1,6 +1,6 @@
 ### Hi there. I'm David 👋
 
-- 🔭 I’m currently working on Chorboagenda
+- 🔭 I’m currently working on Android apps.
 - 🌱 I’m currently learning Jetpack Compose, Github Actions and Notion
 - 👯 I’m looking to collaborate on Android
 - 💬 Ask me about Android, Kotlin and Unity

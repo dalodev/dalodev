@@ -1,4 +1,4 @@
-### Hi there. I'm David 👋
+### Hello there. I'm David 👋
 
 - 🔭 I’m currently working on Android apps.
 - 🌱 I’m currently learning Jetpack Compose, Github Actions and Notion

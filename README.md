@@ -1,6 +1,6 @@
 ### Hello there. I'm David 👋
 
-- 🔭 I’m currently working on Android apps.
+- 🔭 I’m currently working on Android apps and multiplatform apps.
 - 🌱 I’m currently learning kotlin multiplatform with compose multiplatform
 - 👯 I’m looking to collaborate on Android
 - 💬 Ask me about Android, Kotlin and Unity
